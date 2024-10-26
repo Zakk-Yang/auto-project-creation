@@ -4,6 +4,7 @@ import json
 import sys
 import shutil
 
+# first you need to git clone the project to your local folder and you need to replace it below
 BASE_DIR = "/mnt/c/Users/zakky/iCloudDrive/iCloudDrive/developer"
 PYTHON_ENV_VER = "3.11"
 
